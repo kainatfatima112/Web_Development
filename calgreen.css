@@ -1,0 +1,38 @@
+        <style>
+  
+
+body {
+  
+  align-items: center;
+  font-family: sans-serif;
+}
+	
+.calculator {
+  width: 250px;
+  background-color: #000;
+}
+	
+.display {
+  width: 100%;
+  font-size: 2rem;
+  background-color: green;
+  color: #000;
+  
+}
+.row {
+  display: flex; 
+}
+	
+button {
+  width: 50px;
+  font-size: 2rem;
+  background-color: green;
+  color: #fff;
+  margin: 10px;
+}
+
+.operator {
+  background-color: green;
+  color: #fff;
+}
+</style>
